@@ -28,7 +28,7 @@ int solve(int arr[], int n)
 int main()
 {
     int n;
-    cout<<"Enter the size of the array: ";
+    cout<<"Size: ";
     cin>>n;
 
     int arr[n];
