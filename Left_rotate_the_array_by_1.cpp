@@ -32,13 +32,15 @@ void output(int arr[], int n)
 int main()
 {
     int n;
-    cout<<"Enter the size of the array: ";
+    cout<<"Size: ";
     cin>>n;
 
     int arr[n];
 
+    // to input the array elements
     input(arr, n);
 
+    // rotating the array
     solve(arr, n);
 
     cout<<"The array after left rotated by 1 is\n";
