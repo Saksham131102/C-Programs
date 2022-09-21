@@ -32,7 +32,7 @@ void output(int arr[], int n)
 int main()
 {
     int n;
-    cout<<"Size: ";
+    cout<<"Enter the size of the array: ";
     cin>>n;
 
     int arr[n];
