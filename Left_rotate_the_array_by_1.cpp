@@ -1,4 +1,5 @@
 /*  This program rotates an array in left by 1.    */
+/*  Time Complexity is -> O(n)    */
 
 #include<iostream>
 using namespace std;
