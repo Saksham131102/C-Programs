@@ -1,4 +1,4 @@
-/*  Time Complexity -> O(n)  */
+/*  Time Complexity is -> O(n)  */
 
 #include<iostream>
 using namespace std;
