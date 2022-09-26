@@ -1,3 +1,5 @@
+// The program is to find the second largest element in the array
+
 #include<iostream>
 using namespace std;
 
