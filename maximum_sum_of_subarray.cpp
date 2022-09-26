@@ -1,3 +1,5 @@
+// The program is to find the maximum sum of a subarray
+
 #include<iostream>
 using namespace std;
 
